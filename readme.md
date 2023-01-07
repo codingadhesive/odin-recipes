@@ -1,1 +1,1 @@
-Obviously this is elimentary, however you must start somewhere.  This is a simple page about recipes.
+Obviously this is elementary, however you must start somewhere.  This is a simple page about recipes.
